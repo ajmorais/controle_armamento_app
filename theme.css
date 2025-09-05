@@ -1,0 +1,5 @@
+:root{--pmce-green:#1b7c36;--pmce-green-dark:#0f5e27;--pmce-yellow:#f2cf1d;--pmce-gray:#f5f7f8;}
+.block-container{padding-top:2rem!important}header[data-testid="stHeader"]{background:linear-gradient(90deg,var(--pmce-green),var(--pmce-green-dark))}
+section[data-testid="stSidebar"]>div{background:#eaf3ed}div[data-testid="stMetricLabel"]{color:var(--pmce-green-dark)!important}
+button[kind="primary"]{background-color:var(--pmce-green)!important;border-color:var(--pmce-green-dark)!important}
+.stProgress>div>div>div>div{background-color:var(--pmce-green)!important}a,a:visited{color:var(--pmce-green-dark)!important}

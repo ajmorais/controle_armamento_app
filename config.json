@@ -1,0 +1,16 @@
+{
+  "app_name": "Controle de Armamento — PMCE",
+  "notify": {
+    "enabled": true,
+    "smtp_host": "smtp.seu_provedor.com",
+    "smtp_port": 587,
+    "use_tls": true,
+    "username": "seu_email@dominio.com",
+    "password": "SUA_SENHA_OU_APP_PASSWORD",
+    "from_name": "Controle de Armamento",
+    "from_email": "seu_email@dominio.com",
+    "admin_emails": [
+      "admin@exemplo.com"
+    ]
+  }
+}
